@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Hello RNS
 This is first line from dev1 workspace
 This is 2nd line from dev2 workspace
 This is the 3rd line from dev1 ws
 changes to verify the status
 This is the 4th line from dev2 workspace
+=======
+Hello Rns
+>>>>>>> b1b09f3e8f121c8cf38d0e295439aa11a4ff79bf
